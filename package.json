@@ -38,7 +38,7 @@
   },
   "pnpm": {
     "overrides": {
-      "ember-animated-tools>ember-animated": "VasylMarchuk/ember-animated",
+      "ember-animated-tools>ember-animated": "1.1.2",
       "ember-modal-dialog": "4.0.0",
       "@types/eslint": "8.4.1"
     },
